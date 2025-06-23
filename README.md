@@ -30,7 +30,8 @@ This repository contains the final peer-graded assignment for the **"Tools for D
 
 ## 📸 Screenshot
 
-> Add a screenshot of the **first page** of the notebook here for Exercise 13.
+![image](https://github.com/user-attachments/assets/72358126-1e9d-4464-bbba-09f4f89b5954)
+
 
 ## 🧑‍💻 Author
 
